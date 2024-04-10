@@ -1,6 +1,19 @@
+/* Asterisk wildcard selector to override default styles added by the browser */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
 h1 {
-    color: purple;
+    color: orange;
     background-color: black;
+}
+
+p {
+    
 }
 
 /* Header */
