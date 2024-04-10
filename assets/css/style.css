@@ -1,6 +1,8 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 
+
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 *{
     padding: 0;
@@ -28,8 +30,6 @@ background-color: black;
 h1 {
     font-family: 'Bungee Spice', sans-serif;
     font-size: 100px;
-    
-    
 
 }
 
@@ -38,7 +38,6 @@ main {
 background-color: lightblue;
 /* Make main element take up any surplus space to push footer down */
 flex: 1 0 auto;
-font-family
 
 }
 
