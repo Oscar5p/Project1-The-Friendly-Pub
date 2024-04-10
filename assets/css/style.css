@@ -16,23 +16,19 @@ body {
     /* Generic project style */
     color: #3a3a3a;
     
-}
-
-h1 {
-    color: orange;
-    background-color: black;
-    font-family: 'Bungee+Spice';
-}
-
-p {
-    color:  skyblue;
-    background-color: black;
     
 }
 
+
 /* Header */
 header {
-background-color: lightcoral;
+background-color: black;
+}
+
+h1 {
+    font-family: 'Bungee Spice';
+    font-size: 100px;
+
 }
 
 /* Main content */
