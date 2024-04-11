@@ -97,13 +97,17 @@ header a {
 
 }
 
-p{
-    font-size: 1.5em;
+p{ 
+    font-size: 2em;
     color: whitesmoke;
     text-align: center; 
-    font-family: "Shadows Into Light", cursive;
+    font-family: "Whisper", cursive;
     font-weight: 400;
     font-style: normal;
+      
+      
+      
+      
       
       
 }
@@ -127,7 +131,7 @@ p{
     margin: auto;
 }
 
-h2 {
+div > h2 {
     color: whitesmoke;
     text-align: center;
     font-family: "Bungee Shade", sans-serif;
