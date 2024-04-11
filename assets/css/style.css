@@ -34,6 +34,7 @@ body {
     padding: 0;
     margin: 0;
     text-align: center;
+    
 }
 
 .navbar  li {
@@ -76,4 +77,57 @@ h1 {
 header a {
     text-decoration: none;
     color: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bungee', sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 15px; 
+    border-radius: 15px solid whitesmoke;
+    min-height: 90vh;
+
+    position: relative;
+
+}
+
+p{
+    font-size: 1.5em;
+    color: whitesmoke;
+    text-align: center; 
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+      
+      
+}
+
+.large_title{
+    font-size: 4em;
+    color: whitesmoke;
+}
+
+.bottom_content{
+    
+    padding: 15px;
+    max-width: 500px;
+    
+    border-radius: 5px;
+    position: absolute;
+
+    bottom: 0;
+    right: 0;
+    right: 0;
+    margin: auto;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
 }
