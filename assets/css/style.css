@@ -66,6 +66,14 @@ background-color: black;
 h1 {
     font-family: 'Bungee Spice', sans-serif;
     font-size: 100px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+
 
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
