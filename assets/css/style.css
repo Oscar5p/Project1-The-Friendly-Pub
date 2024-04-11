@@ -3,6 +3,8 @@
 
 
 
+
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 *{
     padding: 0;
@@ -38,10 +40,12 @@ main {
 background-color: lightblue;
 /* Make main element take up any surplus space to push footer down */
 flex: 1 0 auto;
+font-family: 'Bungee Spice', sans-serif;
 
 }
 
 /* Footer */
 footer {
 background-color: orange;
+font-family: 'Bungee Spice', sans-serif;
 }
