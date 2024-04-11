@@ -42,7 +42,15 @@ body {
     color: #fff;
     width: 100px;
     display: block;
-    padding: 25px 20px;    
+    padding: 25px 20px;   
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: arial;
+
+}
+
+.navbar a:hover{
+    background: #353640;
 }
 
 /* Header */
