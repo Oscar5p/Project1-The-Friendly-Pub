@@ -35,11 +35,13 @@ body {
     padding: 0;
     margin: 0;
     text-align: center;
+   
     
 }
 
 .navbar  li {
     display: inline-block;
+   
 }
 
 .navbar a{
@@ -53,11 +55,13 @@ body {
     font-family: arial;
     text-align: center;
     font-size: 14px;
+    
 
 }
 
 .navbar a:hover{
     background: orange;
+    
 }
 
 /* Header */
@@ -150,5 +154,4 @@ audio::-webkit-media-controls-panel {
     background-color: orange !important;
 
 }
-
 
