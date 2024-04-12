@@ -62,7 +62,7 @@ body {
 
 /* Header */
 header {
-background-color: black;
+background-color: none;
 }
 
 h1 {
@@ -100,12 +100,15 @@ header a {
 
 p{ 
     font-size: 2em;
-    color: darkgoldenrod;
+    color: white;
     text-align: center; 
     font-family: "Whisper", cursive;
     font-weight: 400;
     font-style: normal;
     background-color: black;
+    
+    
+    
       
       
       
@@ -147,4 +150,5 @@ audio::-webkit-media-controls-panel {
     background-color: orange !important;
 
 }
+
 
