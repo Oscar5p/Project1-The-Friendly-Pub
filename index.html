@@ -27,6 +27,29 @@
 
         }
     </style>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+         }
+         .scrolling-text-container{
+            display: flex;
+            align-items: center;
+            background-color: black;
+            margin-top: 40px;
+         }
+         .scrolling-text-container span{
+            position: relative;
+            display: inline-block;
+            flex-shrink: 0;
+            padding: 8px 20px;
+            background: #f00;
+            color:white;
+            clip-path: polygon(0 0 , 85% 0, 100% 100%, 0 100%);
+            font-weight: 600;
+         }
+
+    </style>
 </head>
 <body>
     
