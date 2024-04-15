@@ -45,7 +45,7 @@ body {
     
 
 }
-
+/* Navbar on the top of the page */
 .navbar ul {
     list-style: none; 
     background: none;
@@ -95,7 +95,7 @@ h1 {
 
 
 }
-
+/* Header the big text of my homepage */
 header a {
     text-decoration: none;
     color: black;
@@ -119,14 +119,15 @@ header a {
 
 }
 
-p{ 
+ p { 
     font-size: 2em;
     color: white;
     text-align: center; 
     font-family: "Whisper", cursive;
     font-weight: 400;
     font-style: normal;
-    opacity: 1;
+    
+    
         
 }
 
@@ -172,3 +173,100 @@ div > iframe {
 }
 
 
+.login body {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    height: 46px;
+    font-family: 'Bungee Shade', sans-serif;
+}
+
+.login {
+    
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.75);
+    width: 27rem;
+    height: 37rem;
+}
+
+.form {
+    display: grid;
+    place-content: center;
+    box-sizing: border-box;
+    background-image: none;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+input {
+    background: whitesmoke;
+    width: 18rem;
+    height: 1.5rem;
+    font-size: 0.9rem;
+    border: 2px solid rgba(0,0,0,0.75);
+    padding: 5px;
+}
+
+::placeholder{
+    color: rgba(grey);
+    padding: 4px;
+}
+
+label {
+    font-size: 1.3rem;
+    padding: 0.3rem;
+    color: orange;
+    font-weight: bold;
+
+}
+
+button {
+    margin-top: 2rem;
+    width: 19rem;
+    height: 2.4rem;
+    font-weight: bold;
+    border: 2px lightcoral;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(76,76,76,0.75);
+}
+
+.login > p {
+    margin: 0.1rem 0 -1rem 0;
+    padding: 0.3rem;
+    
+}
+
+a{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.bxs.user{
+    display: block;
+    position: absolute;
+    padding: 230px 0 0 335px;
+}
+
+.bxs-lock-alt{
+    display: block;
+    position: absolute;
+    padding: 328px 0 0 335px;
+}
+
+.login p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+  
+}
+
+div form p {
+    font-size: x-large;
+    text-align: left;
+}
