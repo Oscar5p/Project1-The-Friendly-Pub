@@ -164,4 +164,7 @@ audio::-webkit-media-controls-panel {
 
 }
 
-
+div > iframe {
+    justify-content: center;
+    align-items: center;
+}
