@@ -164,6 +164,8 @@ audio::-webkit-media-controls-panel {
 
 }
 
+/* GIF */
+
 div > iframe {
     justify-content: center;
     align-items: center;
