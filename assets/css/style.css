@@ -185,8 +185,8 @@ div > iframe {
     
     border-radius: 1rem;
     box-shadow: 0 0 10px rgba(0,0,0,0.75);
-    width: 27rem;
-    height: 37rem;
+    width: 432px;
+    height: 592px;
 }
 
 .form {
@@ -203,9 +203,9 @@ div > iframe {
 
 input {
     background: whitesmoke;
-    width: 18rem;
-    height: 1.5rem;
-    font-size: 0.9rem;
+    width: 288px;
+    height: 24px;
+    font-size: 15px;
     border: 2px solid rgba(0,0,0,0.75);
     padding: 5px;
 }
@@ -216,21 +216,21 @@ input {
 }
 
 label {
-    font-size: 1.3rem;
-    padding: 0.3rem;
+    font-size: 20px;
+    padding: 4.8px;
     color: orange;
     font-weight: bold;
 
 }
 
 button {
-    margin-top: 2rem;
-    width: 19rem;
-    height: 2.4rem;
+    margin-top: 32px;
+    width: 304px;
+    height: 39px;
     font-weight: bold;
     border: 2px lightcoral;
-    border-radius: 1rem;
-    font-size: 1rem;
+    border-radius: 16px;
+    font-size: 16px;
     background-color: purple;
     color: white;
     cursor: pointer;
@@ -239,7 +239,7 @@ button {
 
 .login > p {
     margin: 0.1rem 0 -1rem 0;
-    padding: 0.3rem;
+    padding: 30px;
     
 }
 
