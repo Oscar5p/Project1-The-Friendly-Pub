@@ -295,11 +295,12 @@ div form p {
 
 h3  {
     text-align: center;
-    color: rgba(255, 255, 255, 0.89);
-    background-color: black;
+    color: white;
+    background-color: rgba(0,0,0,0.75);
 }
 
 table {
     color: orange;
-    background-color: black;
+    background-color: rgba(0,0,0,0.75);
+    text-align: center;
 }
