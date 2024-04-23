@@ -295,8 +295,9 @@ div form p {
 
 h3  {
     text-align: center;
-    color: white;
-    background-color: rgba(0,0,0,0.75);
+    color: red;
+    background-color: rgba(0,0,0,0.75); 
+   
 }
 
 table {
