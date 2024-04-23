@@ -297,6 +297,7 @@ h3  {
     text-align: center;
     color: red;
     background-color: rgba(0,0,0,0.75); 
+    min-height: 50px;
    
 }
 
@@ -304,4 +305,6 @@ table {
     color: orange;
     background-color: rgba(0,0,0,0.75);
     text-align: center;
+    min-height: 100px;
+    
 }
