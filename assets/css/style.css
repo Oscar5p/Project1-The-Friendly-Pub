@@ -120,7 +120,7 @@ header a {
 }
 
  p { 
-    font-size: 2em;
+    font-size: 25px;
     color: white;
     text-align: center; 
     font-family: "Whisper", cursive;
@@ -154,7 +154,6 @@ div > h2 {
     color: whitesmoke;
     text-align: center;
     font-family: "Bungee Shade", sans-serif;
-   
     font-style: normal;
       
       
@@ -304,4 +303,8 @@ table {
     background-color: rgba(0,0,0,0.75);
     text-align: center;
     min-height: 100px;
+}
+
+.large_title {
+    font-size: xx-large;
 }
