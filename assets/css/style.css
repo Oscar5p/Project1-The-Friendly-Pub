@@ -303,7 +303,7 @@ table {
     color: orange;
     background-color: rgba(0,0,0,0.75);
     text-align: center;
-    min-height: 100px;
+    font-size: medium;
 }
 
 .large_title {
