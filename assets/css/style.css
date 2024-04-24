@@ -177,7 +177,7 @@ div > iframe {
     display: flex;
     justify-content: center;
     align-items: center;   
-    height: 46px;
+    min-height: 46px;
     font-family: 'Bungee Shade', sans-serif;
 }
 
@@ -186,7 +186,7 @@ div > iframe {
     border-radius: 1rem;
     box-shadow: 0 0 10px rgba(0,0,0,0.75);
     width: 432px;
-    height: 592px;
+    min-height: 592px;
 }
 
 .form {
@@ -195,7 +195,7 @@ div > iframe {
     box-sizing: border-box;
     background-image: none;
     background-size: cover;
-    height: 100%;
+    min-height: 100%;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -204,7 +204,7 @@ div > iframe {
 input {
     background: whitesmoke;
     width: 288px;
-    height: 24px;
+    min-height: 24px;
     font-size: 15px;
     border: 2px solid rgba(0,0,0,0.75);
     padding: 5px;
@@ -226,7 +226,7 @@ label {
 button {
     margin-top: 32px;
     width: 304px;
-    height: 39px;
+    min-height: 39px;
     font-weight: bold;
     border: 2px lightcoral;
     border-radius: 16px;
