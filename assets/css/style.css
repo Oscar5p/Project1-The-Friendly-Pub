@@ -134,6 +134,7 @@ header a {
 .large_title{
     font-size: 40px;
     color: whitesmoke;
+    background-color: rgba(0,0,0,0.50);
 }
 
 .bottom_content{
@@ -320,5 +321,9 @@ table {
     text-align: center;
     font-size: xx-large;
     color: darkred;
+    background-color: rgba(0,0,0,0.50);
+}
+
+.drinks {
     background-color: rgba(0,0,0,0.50);
 }
