@@ -311,7 +311,14 @@ table {
 
 .thirsty {
     text-align: center;
-    background-color: rgba(0,0,0,0.75);
+    background-color: rgba(0,0,0,0.50);
+    color: orange;
  
+}
 
+.prepare {
+    text-align: center;
+    font-size: xx-large;
+    color: darkred;
+    background-color: rgba(0,0,0,0.50);
 }
