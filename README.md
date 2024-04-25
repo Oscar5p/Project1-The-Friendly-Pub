@@ -34,6 +34,15 @@ Our register page let's you create and account where you can take part of exclus
 ### CSS:
 ****This program was used for styling the layout of the website.****
 
+## Imgr From Code W3C Code Validation
+
+![Skärmklipp index](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/ab66a1d1-9bdb-4cf5-b2d3-76d21f59fa2d)
+**This is the _Homepage_**
+
+
+![Skärmklipp about](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/eae4ea47-0349-4fac-a0f2-9fccefb0c4e6)
+**This is the _About Page_**
+
 
 
 
