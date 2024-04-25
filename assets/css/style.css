@@ -346,21 +346,21 @@ table {
 .scrolling-text {
     overflow: hidden;
     white-space: nowrap;
-    animation: scroll 5s ease-in-out; /* Scrolls infinitely from left to right */
+    animation: scroll 10s linear infinite ; /* Scrolls infinitely from left to right */
     color: whitesmoke;
-    background-color: rgba(0,0,0,0.70);
     font-size: x-large;
-    padding:2px 5px;
-    border-radius: 3px;
-    
+
 }
 
 
 @keyframes scroll {
-    from {
-        transform: translateX(35%);
+    0% {
+        transform: translateX(30%); 
     }
-    to {
-        transform: translateX(0);
+    80% {
+        transform: translateX(-50%); 
+    }
+    100% {
+        transform: translateX(-100%); 
     }
 }
