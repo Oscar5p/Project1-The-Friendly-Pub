@@ -26,4 +26,14 @@ The event page shows you our open times and music that are being played from day
 Our register page let's you create and account where you can take part of exclusive info about our pub!
 
 
+## Programming Languages
+
+### HTML5: 
+****This is the base and structure for my website.****
+
+### CSS:
+****This program was used for styling the layout of the website.****
+
+
+
 
