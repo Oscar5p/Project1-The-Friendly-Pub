@@ -343,24 +343,12 @@ table {
     text-align: center;
 }
 
-.scrolling-text {
-    overflow: hidden;
-    white-space: nowrap;
-    animation: scroll 6s linear infinite ; /* Scrolls infinitely from left to right */
+.rolling {
     color: whitesmoke;
     font-size: x-large;
+    background-color: rgba(0,0,0,0.50);
+    width: 22%;
 
 }
 
 
-@keyframes scroll {
-    0% {
-        transform: translateX(30%); 
-    }
-    50% {
-        transform: translateX(-50%); 
-    }
-    100% {
-        transform: translateX(-100%); 
-    }
-}
