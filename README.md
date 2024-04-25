@@ -44,5 +44,19 @@ Our register page let's you create and account where you can take part of exclus
 **This is the _About Page_**
 
 
+![Skärmklipp events](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/69959df6-3f12-4137-ae16-4e2fabb251b1)
+**This is the _Event Page_**
+
+
+![Skärmklipp register](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/76f92363-f6aa-488b-bbe6-90375baad1b3)
+**This is the _Register Page_**
+
+
+![Skärmklipp CSS](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/e117a2a1-214a-4ef0-a1e9-b5723f6a0977)
+**This is the _CSS_**
+
+
+
+
 
 
