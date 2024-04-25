@@ -275,13 +275,13 @@ div form p {
     margin: 0;
     padding: 0;
  }
- .scrolling-text-container{
+  .scrolling-text-container{
     display: flex;
     align-items: center;
     background-color: none;
     margin-top: 20px;
  }
- .scrolling-text-container span{
+  .scrolling-text-container span{
     position: relative;
     display: inline-block;
     flex-shrink: 0;
@@ -343,10 +343,20 @@ table {
     text-align: center;
 }
 
-.rolling {
+.scrolling-text {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: continuous 5s linear infinite; /* Scrolls infinitely from left to right */
     color: whitesmoke;
-    font-size: x-large;
     background-color: rgba(0,0,0,0.50);
-    width: 22%;
-    
+    font-size: x-large;
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0);
+    }
 }
