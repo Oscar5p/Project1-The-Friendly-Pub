@@ -346,7 +346,7 @@ table {
 .scrolling-text {
     overflow: hidden;
     white-space: nowrap;
-    animation: scroll 10s linear infinite ; /* Scrolls infinitely from left to right */
+    animation: scroll 6s linear infinite ; /* Scrolls infinitely from left to right */
     color: whitesmoke;
     font-size: x-large;
 
@@ -357,7 +357,7 @@ table {
     0% {
         transform: translateX(30%); 
     }
-    80% {
+    50% {
         transform: translateX(-50%); 
     }
     100% {
