@@ -171,6 +171,7 @@ div > iframe {
     align-items: center;
 }
 
+/* Login */
 
 .login body {
     display: flex;
@@ -333,6 +334,7 @@ table {
 .drinks {
     background-color: rgba(0,0,0,0.50);
 }
+
 
 .gify {
     text-align: center;
