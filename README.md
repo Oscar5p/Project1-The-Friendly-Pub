@@ -49,6 +49,11 @@ In Github go to repository and head to the settings section.
 In the menu i used Master Branch.
 By using Master Branch the website is now complete.
 
+## Testing
+By using the devtools everything looks good on mobile screen and higher responsiveness.
+The Events page is working fine on responsiveness, The only thing i couldn't mange to fix was that ''saturday'' and ''sunday'' is not fitting in the mobile phone responsiveness.
+didn't have the time to fix it but i hope it's not causing to much problem.
+
 
 ## Bugs 
 ### Solved bugs
@@ -68,9 +73,6 @@ Sometimes you can't play the audio file in my homepage, by refreshing the page o
 
 ### About Page
 ![about page](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/ba7bd7ef-7a8e-4930-a8f7-f815ee1a664b)
-
-
-
 
 
 ## Imgr From Code W3C Code Validation
