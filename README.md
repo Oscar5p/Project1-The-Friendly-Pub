@@ -29,6 +29,8 @@ Our register page let's you create and account where you can take part of exclus
 ## Navigation
 
 It's every easy to know where you want to go on my webpage by using the navigation bar at the top of the screen.
+When you hover your mouse over the pages you will see an orange box so you know where you want to go.
+![navigation](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/e3eec7a4-6de6-46fb-bc4a-a36357492252)
 
 
 ## Programming Languages
