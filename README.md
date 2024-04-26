@@ -96,6 +96,11 @@ Sometimes you can't play the audio file in my homepage, by refreshing the page o
 ![Skärmklipp CSS](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/e117a2a1-214a-4ef0-a1e9-b5723f6a0977)
 **This is the _CSS_**
 
+# Credits
+Social media links i have used are.
+### Facebook
+### Instagram
+### Twitter
 
 
 
