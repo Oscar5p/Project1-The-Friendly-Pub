@@ -26,6 +26,11 @@ The event page shows you our open times and music that are being played from day
 Our register page let's you create and account where you can take part of exclusive info about our pub!
 
 
+## Navigation
+
+It's every easy to know where you want to go on my webpage by using the navigation bar at the top of the screen.
+
+
 ## Programming Languages
 
 ### HTML5: 
