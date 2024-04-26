@@ -49,6 +49,12 @@ In Github go to repository and head to the settings section.
 In the menu i used Master Branch.
 By using Master Branch the website is now complete.
 
+
+## Bugs 
+### Solved bugs
+Sometimes you can't play the audio file in my homepage, by refreshing the page or using command Ctrl+Shift+R it will work.
+
+
 ## Lighthouse Testing For All Pages
 
 ### Regsiter Page
