@@ -41,6 +41,25 @@ When you hover your mouse over the pages you will see an orange box so you know 
 ### CSS:
 ****This program was used for styling the layout of the website.****
 
+
+## Lighthouse Testing For All Pages
+
+### Regsiter Page
+![register page](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/b7133522-b476-48e1-97dd-895cfe450235)
+
+### Event Page
+![events page](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/bd9c78ef-e4a3-413a-9339-7a1e623afeaf)
+
+### Homepage
+![homepage](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/cd6d4d33-fbe5-4d96-9474-497385bc83d5)
+
+### About Page
+![about page](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/ba7bd7ef-7a8e-4930-a8f7-f815ee1a664b)
+
+
+
+
+
 ## Imgr From Code W3C Code Validation
 
 ![Skärmklipp index](https://github.com/Oscar5p/Project1-The-Friendly-Pub/assets/166016267/ab66a1d1-9bdb-4cf5-b2d3-76d21f59fa2d)
