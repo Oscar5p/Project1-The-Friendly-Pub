@@ -42,6 +42,13 @@ When you hover your mouse over the pages you will see an orange box so you know 
 ****This program was used for styling the layout of the website.****
 
 
+## Deployment
+### My website was deployed using Github
+
+In Github go to repository and head to the settings section.
+In the menu i used Master Branch.
+By using Master Branch the website is now complete.
+
 ## Lighthouse Testing For All Pages
 
 ### Regsiter Page
