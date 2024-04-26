@@ -274,11 +274,15 @@ div form p {
     margin: 0;
     padding: 0;
  }
+
+ /* This scrolling text did not work due to marquee is outdated */
   .scrolling-text-container{
     display: flex;
     align-items: center;
     margin-top: 20px;
  }
+
+ /* This scrolling text did not work due to marquee is outdated */
   .scrolling-text-container span{
     position: relative;
     display: inline-block;
