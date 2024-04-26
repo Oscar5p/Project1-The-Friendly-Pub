@@ -101,6 +101,8 @@ Social media links i have used are.
 ### Facebook
 ### Instagram
 ### Twitter
+At the bottom of my index.html it wouldn't let me git push so i'm not sure if my links will pop up or not att the bottom.
+didn't have time to fix cause i had to submit my project.
 
 
 
