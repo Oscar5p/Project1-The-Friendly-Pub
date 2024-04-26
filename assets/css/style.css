@@ -249,11 +249,15 @@ a{
     font-weight: bold;
 }
 
+/* bxs did not work on my login form */
+
 .bxs.user{
     display: block;
     position: absolute;
     padding: 230px 0 0 335px;
 }
+
+/* bxs did not work on my login form */
 
 .bxs-lock-alt{
     display: block;
