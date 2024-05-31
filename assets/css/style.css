@@ -5,7 +5,7 @@
 
 
 /* Asterisk wildcard selector to override default styles added by the browser */
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -13,87 +13,88 @@
 
 /* General styles */
 body {
-    
-    
+
+
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     /* Generic project style */
     color: #3a3a3a;
-    
+
     margin: 0;
     padding: 0;
     background: #ccc;
     font-family: Arial, Helvetica, sans-serif;
 
- 
+
 }
 
 
 /* Body */
 body {
-  
+
     background-image: url('../image/pub.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-   
-    
-    
+
+
+
 
 }
+
 /* Navbar on the top of the page */
 .navbar ul {
-    list-style: none; 
+    list-style: none;
     background: none;
     padding: 0;
     margin: 0;
     text-align: center;
-   
-    
+
+
 }
 
-.navbar  li {
+.navbar li {
     display: inline-block;
-   
+
 }
 
-.navbar a{
+.navbar a {
     text-decoration: none;
     color: #fff;
     width: 100px;
     display: block;
-    padding: 25px 20px;   
+    padding: 25px 20px;
     text-transform: uppercase;
     font-weight: bold;
     font-family: arial;
     text-align: center;
     font-size: 14px;
-    
+
 
 }
 
-.navbar a:hover{
+.navbar a:hover {
     background: orange;
-    
+
 }
 
 /* Header */
-header {
 
-}
+header {}
 
 h1 {
     font-family: 'Bungee Spice', sans-serif;
     font-size: 45px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    
+
 
 
 }
+
 /* Header the big text of my homepage */
 header a {
     text-decoration: none;
@@ -107,40 +108,40 @@ header a {
     font-family: 'Bungee', sans-serif;
 }
 
-.container{
+.container {
     max-width: 1200px;
     margin: 40px auto;
-    padding: 0px; 
-    border-radius: 15px ;
+    padding: 0px;
+    border-radius: 15px;
     min-height: 90vh;
 
     position: relative;
 
 }
 
- p { 
+p {
     font-size: 25px;
     color: white;
-    text-align: center; 
+    text-align: center;
     font-family: "Whisper", cursive;
     font-weight: 400;
     font-style: normal;
-    
-    
-        
+
+
+
 }
 
-.large_title{
+.large_title {
     font-size: 40px;
     color: whitesmoke;
-    background-color: rgba(0,0,0,0.50);
+    background-color: rgba(0, 0, 0, 0.50);
 }
 
-.bottom_content{
-    
+.bottom_content {
+
     padding: 15px;
     max-width: 500px;
-    
+
     border-radius: 5px;
     position: absolute;
 
@@ -150,13 +151,13 @@ header a {
     margin: auto;
 }
 
-div > h2 {
+div>h2 {
     color: whitesmoke;
     text-align: center;
     font-family: "Bungee Shade", sans-serif;
     font-style: normal;
-      
-      
+
+
 }
 
 audio::-webkit-media-controls-panel {
@@ -166,7 +167,7 @@ audio::-webkit-media-controls-panel {
 
 /* GIF */
 
-div > iframe {
+div>iframe {
     justify-content: center;
     align-items: center;
 }
@@ -176,15 +177,15 @@ div > iframe {
 .login body {
     display: flex;
     justify-content: center;
-    align-items: center;   
+    align-items: center;
     min-height: 46px;
     font-family: 'Bungee Shade', sans-serif;
 }
 
 .login {
-    
+
     border-radius: 1rem;
-    box-shadow: 0 0 10px rgba(0,0,0,0.75);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
     width: 432px;
     min-height: 592px;
 }
@@ -199,7 +200,7 @@ div > iframe {
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
-    
+
 }
 
 input {
@@ -207,11 +208,11 @@ input {
     width: 288px;
     min-height: 24px;
     font-size: 15px;
-    border: 2px solid rgba(0,0,0,0.75);
+    border: 2px solid rgba(0, 0, 0, 0.75);
     padding: 5px;
 }
 
-::placeholder{
+::placeholder {
     color: grey;
     padding: 4px;
 }
@@ -235,23 +236,23 @@ button {
     background-color: purple;
     color: white;
     cursor: pointer;
-    box-shadow: 0 0 5px rgba(76,76,76,0.75);
+    box-shadow: 0 0 5px rgba(76, 76, 76, 0.75);
 }
 
-.login > p {
+.login>p {
     margin: 0.1rem 0 -1rem 0;
     padding: 30px;
-    
+
 }
 
-a{
+a {
     cursor: pointer;
     font-weight: bold;
 }
 
 /* bxs did not work on my login form */
 
-.bxs.user{
+.bxs.user {
     display: block;
     position: absolute;
     padding: 230px 0 0 335px;
@@ -259,15 +260,15 @@ a{
 
 /* bxs did not work on my login form */
 
-.bxs-lock-alt{
+.bxs-lock-alt {
     display: block;
     position: absolute;
     padding: 328px 0 0 335px;
 }
 
-.login p{
+.login p {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
+
 }
 
 div form p {
@@ -275,41 +276,41 @@ div form p {
     text-align: left;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
- }
+}
 
- /* This scrolling text did not work due to marquee is outdated */
-  .scrolling-text-container{
+/* This scrolling text did not work due to marquee is outdated */
+.scrolling-text-container {
     display: flex;
     align-items: center;
     margin-top: 20px;
- }
+}
 
- /* This scrolling text did not work due to marquee is outdated */
-  .scrolling-text-container span{
+/* This scrolling text did not work due to marquee is outdated */
+.scrolling-text-container span {
     position: relative;
     display: inline-block;
     flex-shrink: 0;
     padding: 8px 10px;
     background: #f00;
-    color:whitesmoke;
-    clip-path: polygon(0 0 , 85% 0, 100% 100%, 0 100%);
+    color: whitesmoke;
+    clip-path: polygon(0 0, 85% 0, 100% 100%, 0 100%);
     font-weight: 400;
-    
- }
 
-h3  {
+}
+
+h3 {
     text-align: center;
     color: red;
-    background-color: rgba(0,0,0,0.75); 
+    background-color: rgba(0, 0, 0, 0.75);
     min-height: 50px;
 }
 
 table {
     color: orange;
-    background-color: rgba(0,0,0,0.75);
+    background-color: rgba(0, 0, 0, 0.75);
     text-align: center;
     font-size: medium;
 }
@@ -320,31 +321,31 @@ table {
 
 .thirsty {
     text-align: center;
-    background-color: rgba(0,0,0,0.50);
+    background-color: rgba(0, 0, 0, 0.50);
     color: orange;
     font-size: large;
- 
+
 }
 
 .prepare {
     text-align: center;
     font-size: x-large;
     color: darkred;
-    background-color: rgba(0,0,0,0.50);
+    background-color: rgba(0, 0, 0, 0.50);
     padding: 50px;
-    
+
 }
 
 .drinks {
-    background-color: rgba(0,0,0,0.50);
+    background-color: rgba(0, 0, 0, 0.50);
 }
 
 
 .gify {
     text-align: center;
-    background-color: rgba(0,0,0,0.50);
-    
-    
+    background-color: rgba(0, 0, 0, 0.50);
+
+
 }
 
 .music {
@@ -354,8 +355,8 @@ table {
 .rolling {
     color: whitesmoke;
     font-size: large;
-    background-color: rgba(0,0,0,0.50);
-    
+    background-color: rgba(0, 0, 0, 0.50);
+
 
 }
 
@@ -364,7 +365,7 @@ h4 {
     font-size: 45px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    
+
 
 
 }
